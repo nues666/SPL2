@@ -2,7 +2,7 @@
 
 ## Stundeninhalt
 ### Installation VM (Ubuntu 18.04 Desktop)
-*Ubuntu Installationsdaten:
-*4 Kerne
-'4GB Ram 
-*32GB HDD
+* Ubuntu Installationsdaten:
+* 4 Kerne
+* 4GB Ram 
+* 32GB HDD
